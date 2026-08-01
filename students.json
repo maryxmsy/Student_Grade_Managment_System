@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Maryam",
+        "roll": "56",
+        "ai": 90,
+        "python": 98,
+        "maths": 76,
+        "dbms": 77,
+        "os": 80
+    },
+    {
+        "name": "Ali",
+        "roll": "65s",
+        "ai": 78,
+        "python": 77,
+        "maths": 65,
+        "dbms": 90,
+        "os": 99
+    }
+]
